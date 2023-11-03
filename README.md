@@ -1,6 +1,6 @@
 # The Wild Oasis
 
-Main project made by Johnas cloned by Brijesh
+Main project made by Johnas cloned by Brijesh, Built with React Query and Supabase.
 
 Currently, two official plugins are available:
 
